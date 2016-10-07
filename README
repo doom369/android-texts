@@ -5,3 +5,4 @@ How to add new localization:
 2. Translate the texts in the xml files in your locale's 'values' directory.
 3. Make pull request.
 4. PROFIT
+
